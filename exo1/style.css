@@ -1,0 +1,58 @@
+
+@media screen and (max-width: 300px)
+{
+body{
+  background-color: red;
+  font-size: 10px;
+}
+#small{
+  display: block;
+}
+#medium{
+display: block;
+}
+#large{
+  display: block;
+}
+}
+@media screen and (min-width: 300px) and (max-width: 768px)
+{
+body{
+  background-color: green;
+  font-size: 15px;
+}
+.medium{
+  display: flex;
+}
+#small{
+  display: block;
+  flex:2;
+}
+#medium{
+  display: block;
+  flex:1;
+}
+#large{
+display: block;
+}
+}
+@media screen and (min-width: 768px)
+{
+body{
+  background-color: blue;
+  font-size: 20px;
+  display: flex;
+}
+#small{
+display: block;
+flex: 1;
+}
+#medium{
+display: block;
+flex:1;
+}
+#large{
+display: block;
+flex:1;
+}
+}
