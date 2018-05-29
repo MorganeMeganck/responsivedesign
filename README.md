@@ -7,6 +7,6 @@ Une petite série d'exercice pour apprendre le responsive design, suivi d'un exo
 Une après-midi de Mai 2018, à BeCode.
 ## A quoi ca ressemble?
 Voici une image des exercices 
-![Exercices](https://github.com/MorganeMeganck/bootstrap-training/blob/master/exobootstrap.png)
-Et une image du layout en mode grand écran
-![Layout Responsive](https://github.com/MorganeMeganck/bootstrap-training/blob/master/layoutresponsive.png)
+![Exercices](https://github.com/MorganeMeganck/responsivedesign/blob/master/exo1/exoresponsive.png)
+Et une image du layout en mode "telephone"
+![Layout Responsive](https://github.com/MorganeMeganck/responsivedesign/blob/master/layout/layoutresponsive.png)
